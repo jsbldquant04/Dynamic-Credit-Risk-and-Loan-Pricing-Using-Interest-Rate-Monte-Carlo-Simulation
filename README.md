@@ -66,9 +66,6 @@ This project is intended as an **educational MVP rather than a production bankin
 
    Model PD as a function of borrower characteristics, interest rates, GDP, inflation, unemployment, and other economic variables:
 
-   $$
-   PD_{i,t} = f(X_{i,t}, r_t, \text{Macro Factors}_t)
-   $$
 
 3. **Advanced Interest-Rate & Monte Carlo Models**
 
